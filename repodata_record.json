@@ -1,0 +1,20 @@
+{
+  "build": "h2bbff1b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "fn": "sqlite-3.45.3-h2bbff1b_0.conda",
+  "license": "blessing",
+  "md5": "c5b3b929349655302bf811c45571da6d",
+  "name": "sqlite",
+  "sha256": "bb25d778d309491d947d3758ec79652aa637c1808041114b1bd45e8bdd7bd776",
+  "size": 996331,
+  "subdir": "win-64",
+  "timestamp": 1714488344000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/sqlite-3.45.3-h2bbff1b_0.conda",
+  "version": "3.45.3"
+}
